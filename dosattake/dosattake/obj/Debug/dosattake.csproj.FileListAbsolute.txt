@@ -1,0 +1,7 @@
+c:\users\kal\source\repos\dosattake\dosattake\bin\Debug\dosattake.exe.config
+c:\users\kal\source\repos\dosattake\dosattake\bin\Debug\dosattake.exe
+c:\users\kal\source\repos\dosattake\dosattake\bin\Debug\dosattake.pdb
+c:\users\kal\source\repos\dosattake\dosattake\obj\Debug\dosattake.csprojResolveAssemblyReference.cache
+c:\users\kal\source\repos\dosattake\dosattake\obj\Debug\dosattake.csproj.CoreCompileInputs.cache
+c:\users\kal\source\repos\dosattake\dosattake\obj\Debug\dosattake.exe
+c:\users\kal\source\repos\dosattake\dosattake\obj\Debug\dosattake.pdb
